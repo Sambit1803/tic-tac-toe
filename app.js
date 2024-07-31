@@ -60,6 +60,7 @@ const showDraw = () => {
     msg.innerText = `Game Drawn.`
     msgContainer.classList.remove("hide");
     disableBtns();
+    console.log("drawn");
 }
 
 const disableBtns = () => {
@@ -79,6 +80,8 @@ const resetGame = () => {
     turnO = true;
     enableBtns();
     msgContainer.classList.add("hide");
+    countBox = 0;
+    winnerBool = false;
 }
 
 resetBtn.addEventListener("click", resetGame);
