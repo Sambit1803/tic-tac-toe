@@ -29,7 +29,7 @@ boxes.forEach((box) => {
 });
 
 const checkBoxCount = (cnt) => {
-    if(!winnerBool && cnt === 9){
+    if((!winnerBool) && cnt === 9){
         showDraw();
     }
 }
