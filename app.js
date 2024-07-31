@@ -60,7 +60,6 @@ const showDraw = () => {
     msg.innerText = `Game Drawn.`
     msgContainer.classList.remove("hide");
     disableBtns();
-    console.log("drawn");
 }
 
 const disableBtns = () => {
