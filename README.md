@@ -26,4 +26,4 @@ This project is a simple implementation of the classic Tic-Tac-Toe game using HT
 
 ## Author
 
-Sambit Pati - [LinkedIn](https://www.linkedin.com/in/sambit-pati?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdZR0%2B4RHTtGheWhvaMrZZg%3D%3D)
+Sambit Pati - [LinkedIn](https://www.linkedin.com/in/sambit-pati/)
